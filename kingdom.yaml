@@ -1,0 +1,8 @@
+name: orthophanes
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: The rightness of a well-ordered thing made visible as it appears to a beholder.
+dependsOn: [youspeak, me, doxakallos, doxalgia]
